@@ -1,0 +1,2 @@
+I contributed to the discussion by prompting the team to review the project workflow and requirements, participating in conversations around data cleaning, EDA, project scoping and dashboard development, confirming technical issues during the meeting, supporting decisions on project organisation, and volunteering to take responsibility for the next week's project update/task.
+Led and initated discussion on splitting data sets to review structuring and guiding conversation by redirecting to important 
